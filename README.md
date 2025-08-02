@@ -10,8 +10,8 @@ To perform data cleaning and exploratory data analysis (EDA) on the Titanic data
 ## 📁 Files Included
 
 - `Prodigy_Infotech_Task_2.ipynb` – Jupyter Notebook with all code and plots
-- `Prodigy_Infotech_Task_2.pdf` – PDF version of the notebook (for report)
-- `titanic_cleaned.csv` – Cleaned dataset (optional)
+- `Prodigy_Infotech_Task_2.pdf` – PDF version of the notebook 
+- `titanic_cleaned.csv` – Cleaned dataset
 
 ## 📊 Key Explorations
 
