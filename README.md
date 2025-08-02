@@ -29,5 +29,5 @@ To perform data cleaning and exploratory data analysis (EDA) on the Titanic data
 
 ---
 
-## Author: 
+## 🧑‍💻Author: 
 Shouvik Bhattacharjee, Data Science Intern, Prodigy Infotech.
